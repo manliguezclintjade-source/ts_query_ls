@@ -1,4 +1,4 @@
-name: CI
+name: Clinton
 on:
   push:
     branches: ['master']
